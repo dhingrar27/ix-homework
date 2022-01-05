@@ -1,0 +1,25 @@
+
+.dark-background {
+    background-color: rgb(60, 60, 60);
+}
+.blue{
+    background-color: blue;
+}
+.yellow{
+    background-color: yellow;
+}
+.green{
+    background-color: green;
+}
+.red{
+    background-color: red;
+}
+.pink{
+    background-color: rgb(253, 111, 135);
+}
+body{
+    background-color: black;
+}
+.white{
+    color:white
+}
